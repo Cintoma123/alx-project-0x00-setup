@@ -8,9 +8,8 @@ const LandingPage: React.FC = () => {
 
       {/* Small Buttons */}
       <div className="flex gap-4">
-        <Button title="Small Rounded-sm" styles="text-sm rounded-sm" />
-        <Button title="Small Rounded-md" styles="text-sm rounded-md" />
-        <Button title="Small Rounded-full" styles="text-sm rounded-full" />
+        <Button title="rounded-lg" styles="rounded-lg" />
+         
       </div>
 
       {/* Medium Buttons */}
